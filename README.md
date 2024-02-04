@@ -1,4 +1,4 @@
-# Sitema Logina C# c/ interface gráfica
+# Sitema Login C# c/ interface gráfica
 Desenvolvido em C# e Windows Form
 
 ![image](/Login/login.png "login")
